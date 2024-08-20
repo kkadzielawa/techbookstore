@@ -1,0 +1,32 @@
+# OS generated files #
+######################
+._*
+__pycache__/
+
+# ALL ENV FILES #
+#################
+**/.env
+
+#ALL .VENV #
+############
+**/.venv/
+
+
+#KAGGLE DATA#
+#############
+data/
+
+
+#CONTENT FOLDER#
+#############
+content/
+
+#JUPYTER#
+#########
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+#DB SQLLite#
+#########
+db.sqlite3
